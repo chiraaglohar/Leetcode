@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Chiraglohar9/Leetcode/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Chiraglohar9/Leetcode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Chiraglohar9/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+| [3220-odd-and-even-transactions](https://github.com/Chiraglohar9/Leetcode/tree/master/3220-odd-and-even-transactions) |
 ## Array
 |  |
 | ------- |
