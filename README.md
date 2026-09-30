@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Chiraglohar9/Leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Chiraglohar9/Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Chiraglohar9/Leetcode/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/Chiraglohar9/Leetcode/tree/master/1179-reformat-department-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Chiraglohar9/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [3220-odd-and-even-transactions](https://github.com/Chiraglohar9/Leetcode/tree/master/3220-odd-and-even-transactions) |
 ## Array
