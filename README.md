@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/Chiraglohar9/Leetcode/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/Chiraglohar9/Leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Chiraglohar9/Leetcode/tree/master/1280-students-and-examinations) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Chiraglohar9/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Chiraglohar9/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [3220-odd-and-even-transactions](https://github.com/Chiraglohar9/Leetcode/tree/master/3220-odd-and-even-transactions) |
 ## Array
