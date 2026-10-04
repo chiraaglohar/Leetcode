@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Chiraglohar9/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/Chiraglohar9/Leetcode/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/Chiraglohar9/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
+| [1527-patients-with-a-condition](https://github.com/Chiraglohar9/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Chiraglohar9/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [3220-odd-and-even-transactions](https://github.com/Chiraglohar9/Leetcode/tree/master/3220-odd-and-even-transactions) |
 ## Array
