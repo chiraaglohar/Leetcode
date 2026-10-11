@@ -1,19 +1,27 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
+        
         n = len(s)
-        dp = [[False] * n for _ in range(n)]
+        # Form a bottom-up dp 2d array
+        # dp[i][j] will be 'true' if the string from index i to j is a palindrome. 
+        dp = [[False] * n  for _ in range(n)]
+        
+        ans = ''
+        # every string with one character is a palindrome
         for i in range(n):
             dp[i][i] = True
-        longest_palindrome_start, longest_palindrome_len = 0, 1
-
-        for end in range(0, n):
-            for start in range(end - 1, -1, -1):
-                # print('start: %s, end: %s' % (start, end))
+            ans = s[i]
+            
+        maxLen = 1
+        for start in range(n-1, -1, -1):
+            for end in range(start+1, n):             
+				# palindrome condition
                 if s[start] == s[end]:
-                    if end - start == 1 or dp[start + 1][end - 1]:
+                    # if it's a two char. string or if the remaining string is a palindrome too
+                    if end - start == 1 or dp[start+1][end-1]:
                         dp[start][end] = True
-                        palindrome_len = end - start + 1
-                        if longest_palindrome_len < palindrome_len:
-                            longest_palindrome_start = start
-                            longest_palindrome_len = palindrome_len
-        return s[longest_palindrome_start: longest_palindrome_start + longest_palindrome_len]
+                        if maxLen < end - start + 1:
+                            maxLen = end - start + 1
+                            ans = s[start: end+ 1]
+        
+        return ans
