@@ -13,4 +13,4 @@ class Solution:
                 return match(i, j + 2) or (first and match(i + 1, j))
             return first and match(i + 1, j + 1)
 
-        return match(0, 0)
+        return match(0, 0) 
