@@ -1,7 +1,7 @@
 select employee_id, 
         case 
-            when name not like 'm%' 
-                and employee_id % 2 != 0 
+            when employee_id % 2 != 0 
+                and name not like 'm%' 
                 then salary 
                 else 0 
         end as bonus
