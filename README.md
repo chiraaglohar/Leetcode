@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/Chiraglohar9/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Chiraglohar9/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Chiraglohar9/Leetcode/tree/master/1890-the-latest-login-in-2020) |
+| [1965-employees-with-missing-information](https://github.com/Chiraglohar9/Leetcode/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Chiraglohar9/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/Chiraglohar9/Leetcode/tree/master/3220-odd-and-even-transactions) |
 ## Array
