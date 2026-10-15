@@ -9,5 +9,5 @@ class Solution:
             if i + 1 < len(s) and roman_to_int[s[i]] < roman_to_int[s[i + 1]]:
                 result -= roman_to_int[s[i]]
             else:
-                result += roman_to_int[s[i]]
+                result+= roman_to_int[s[i]]
         return result
