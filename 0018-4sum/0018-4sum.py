@@ -3,12 +3,9 @@ class Solution:
         nums.sort()
         res = []
         n = len(nums)
-
         for i in range(n):
             if i>0 and nums[i]==nums[i-1]:
                 continue
-            # the first loop
-
             for j in range(i+1,n):
                 if j>i+1 and nums[j]==nums[j-1]:
                     continue
