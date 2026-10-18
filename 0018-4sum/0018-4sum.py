@@ -9,8 +9,6 @@ class Solution:
             for j in range(i+1,n):
                 if j>i+1 and nums[j]==nums[j-1]:
                     continue
-
-
                 l = j+1
                 r = n-1
             
