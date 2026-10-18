@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Chiraglohar9/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Chiraglohar9/Leetcode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chiraglohar9/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chiraglohar9/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chiraglohar9/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Chiraglohar9/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Chiraglohar9/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chiraglohar9/Leetcode/tree/master/0013-roman-to-integer) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Chiraglohar9/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Chiraglohar9/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Chiraglohar9/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chiraglohar9/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chiraglohar9/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,4 +223,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chiraglohar9/Leetcode/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
