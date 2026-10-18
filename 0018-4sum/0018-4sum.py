@@ -1,12 +1,10 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
-        
         nums.sort()
         res = []
         n = len(nums)
 
         for i in range(n):
-
             if i>0 and nums[i]==nums[i-1]:
                 continue
             # the first loop
