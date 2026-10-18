@@ -13,7 +13,7 @@ class Solution:
                 r = n-1
             
                 while l<r:
-                    # The pointers that move and take care of everything
+
 
                     total = nums[i]+nums[j]+nums[l]+nums[r]
 
