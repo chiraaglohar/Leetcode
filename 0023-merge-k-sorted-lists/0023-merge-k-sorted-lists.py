@@ -17,5 +17,5 @@ class Solution:
             curr = curr.next
             if node.next:
                 heapq.heappush(heap, (node.next.val, i, node.next))
-                
+    
         return dummy.next
