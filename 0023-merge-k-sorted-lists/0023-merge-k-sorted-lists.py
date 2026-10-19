@@ -1,11 +1,9 @@
 import heapq
-
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         heap = []
         for i, node in enumerate(lists):
             if node:
-                # Store (value, index, node) to handle tie-breaking
                 heapq.heappush(heap, (node.val, i, node))
         dummy = ListNode(0)
         curr = dummy
