@@ -1,10 +1,10 @@
 class Solution:
     def swapPairs(self, head: ListNode) -> ListNode:
-        if not head or not head.next:  # Base case
+        if not head or not head.next:
             return head
         
-        temp = head.next  # Store the second node
-        head.next = self.swapPairs(temp.next)  # Recursively swap the rest of the list
-        temp.next = head  # Swap current pair
+        temp = head.next 
+        head.next = self.swapPairs(temp.next) 
+        temp.next = head 
         
-        return temp  # New head of the swapped pair
+        return temp 
