@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chiraglohar9/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Chiraglohar9/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Chiraglohar9/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Chiraglohar9/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chiraglohar9/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Chiraglohar9/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Chiraglohar9/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chiraglohar9/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Chiraglohar9/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Manacher
 |  |
 | ------- |
