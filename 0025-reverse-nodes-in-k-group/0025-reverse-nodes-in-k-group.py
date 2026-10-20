@@ -7,7 +7,6 @@ class Solution:
             prev = curr
             curr = nxt
         return prev
-
     def reverseKGroup(self, head, k):
         count, temp = 0, head
         while temp and count < k:
@@ -15,7 +14,6 @@ class Solution:
             count += 1
         if count < k:
             return head
-
         new_head = self.reverse(head, temp)
         head.next = self.reverseKGroup(temp, k)
         return new_head
