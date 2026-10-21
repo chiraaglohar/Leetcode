@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Chiraglohar9/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Chiraglohar9/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chiraglohar9/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Chiraglohar9/Leetcode/tree/master/0029-divide-two-integers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
@@ -299,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chiraglohar9/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Chiraglohar9/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
