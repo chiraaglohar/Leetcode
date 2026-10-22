@@ -2,9 +2,7 @@ class Solution:
     def convert(self, s: str, numRows: int) -> str:
         if numRows == 1:
             return s
-
         rows = [""] * numRows
-        
         add = 0
         inc = 1
         for i in s:
