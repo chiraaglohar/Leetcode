@@ -7,9 +7,8 @@ class Solution:
 
         negative = (dividend < 0) ^ (divisor < 0)
         a, b = abs(dividend), abs(divisor)
-        
-        quotient = 0
 
+        quotient = 0
         powers = []
         val = b
         while val <= a:
