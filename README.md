@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chiraglohar9/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chiraglohar9/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Chiraglohar9/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Chiraglohar9/Leetcode/tree/master/0044-wildcard-matching) |
 | [0301-remove-invalid-parentheses](https://github.com/Chiraglohar9/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Chiraglohar9/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Chiraglohar9/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Chiraglohar9/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Chiraglohar9/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Chiraglohar9/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Chiraglohar9/Leetcode/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/Chiraglohar9/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chiraglohar9/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chiraglohar9/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Chiraglohar9/Leetcode/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/Chiraglohar9/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chiraglohar9/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Chiraglohar9/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Chiraglohar9/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Chiraglohar9/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Chiraglohar9/Leetcode/tree/master/0044-wildcard-matching) |
 ## Binary Indexed Tree
 |  |
 | ------- |
