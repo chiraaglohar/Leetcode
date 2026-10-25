@@ -19,3 +19,4 @@ SELECT
     (SELECT C.num_logins FROM consec_logins C)
     / (SELECT COUNT(F.player_id) FROM first_logins F)
   , 2) AS fraction;
+  
