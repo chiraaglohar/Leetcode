@@ -19,11 +19,8 @@ class Solution:
                         right = mid - 1
                     else:
                         left = mid + 1
-            
             return idx
-        
         left = binary_search(nums, target, True)
         right = binary_search(nums, target, False)
-        
         return [left, right]
             
