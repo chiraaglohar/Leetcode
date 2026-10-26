@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chiraglohar9/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chiraglohar9/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Chiraglohar9/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chiraglohar9/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Chiraglohar9/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chiraglohar9/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chiraglohar9/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chiraglohar9/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Algorithm X
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Chiraglohar9/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chiraglohar9/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chiraglohar9/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chiraglohar9/Leetcode/tree/master/0029-divide-two-integers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Chiraglohar9/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chiraglohar9/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
