@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Chiraglohar9/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chiraglohar9/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chiraglohar9/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Chiraglohar9/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chiraglohar9/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Chiraglohar9/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chiraglohar9/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chiraglohar9/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Chiraglohar9/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chiraglohar9/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chiraglohar9/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Chiraglohar9/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chiraglohar9/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chiraglohar9/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
