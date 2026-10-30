@@ -15,8 +15,6 @@ class Solution:
         
         
         return ans + f'{count}{curr}'
-    
-    
     def countAndSay(self, n: int) -> str:
         if n == 1:
             return "1"
