@@ -3,8 +3,6 @@ class Solution:
         curr = sequence[0]
         count = 0
         ans = ""
-        
-        
         for num in sequence:
             if curr == num:
                 count += 1
@@ -12,8 +10,6 @@ class Solution:
                 ans += f'{count}{curr}'
                 curr = num
                 count = 1
-        
-        
         return ans + f'{count}{curr}'
     def countAndSay(self, n: int) -> str:
         if n == 1:
