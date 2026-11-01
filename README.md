@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Chiraglohar9/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chiraglohar9/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chiraglohar9/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chiraglohar9/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Chiraglohar9/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chiraglohar9/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Chiraglohar9/Leetcode/tree/master/0029-divide-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
