@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Chiraglohar9/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Chiraglohar9/Leetcode/tree/master/0041-first-missing-positive) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chiraglohar9/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chiraglohar9/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Chiraglohar9/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Chiraglohar9/Leetcode/tree/master/0041-first-missing-positive) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chiraglohar9/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chiraglohar9/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiraglohar9/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
