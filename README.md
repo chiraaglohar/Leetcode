@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Chiraglohar9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Chiraglohar9/Leetcode/tree/master/0046-permutations) |
+| [0057-insert-interval](https://github.com/Chiraglohar9/Leetcode/tree/master/0057-insert-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/Chiraglohar9/Leetcode/tree/master/1882-process-tasks-using-servers) |
