@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Chiraglohar9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Chiraglohar9/Leetcode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Chiraglohar9/Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Chiraglohar9/Leetcode/tree/master/0057-insert-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chiraglohar9/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Chiraglohar9/Leetcode/tree/master/0054-spiral-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chiraglohar9/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chiraglohar9/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Chiraglohar9/Leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -378,4 +380,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Chiraglohar9/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Chiraglohar9/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
