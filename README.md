@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Chiraglohar9/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Chiraglohar9/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Chiraglohar9/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Chiraglohar9/Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Chiraglohar9/Leetcode/tree/master/0057-insert-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Chiraglohar9/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Chiraglohar9/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Chiraglohar9/Leetcode/tree/master/0049-group-anagrams) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chiraglohar9/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chiraglohar9/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiraglohar9/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Chiraglohar9/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Chiraglohar9/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Chiraglohar9/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Chiraglohar9/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Chiraglohar9/Leetcode/tree/master/0058-length-of-last-word) |
 | [0301-remove-invalid-parentheses](https://github.com/Chiraglohar9/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Chiraglohar9/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Chiraglohar9/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Chiraglohar9/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Chiraglohar9/Leetcode/tree/master/0049-group-anagrams) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Chiraglohar9/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chiraglohar9/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
