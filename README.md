@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/Chiraglohar9/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chiraglohar9/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chiraglohar9/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chiraglohar9/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Chiraglohar9/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Chiraglohar9/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Chiraglohar9/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chiraglohar9/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Chiraglohar9/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Breadth-First Search
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Chiraglohar9/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Chiraglohar9/Leetcode/tree/master/0049-group-anagrams) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Chiraglohar9/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chiraglohar9/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
