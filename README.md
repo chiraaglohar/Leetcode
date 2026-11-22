@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Chiraglohar9/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Chiraglohar9/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Chiraglohar9/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Chiraglohar9/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chiraglohar9/Leetcode/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Chiraglohar9/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Chiraglohar9/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Chiraglohar9/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Chiraglohar9/Leetcode/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/Chiraglohar9/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Chiraglohar9/Leetcode/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
