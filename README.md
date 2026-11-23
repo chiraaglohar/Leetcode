@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Chiraglohar9/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Chiraglohar9/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Chiraglohar9/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Chiraglohar9/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Chiraglohar9/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Chiraglohar9/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Chiraglohar9/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Chiraglohar9/Leetcode/tree/master/0056-merge-intervals) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Chiraglohar9/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Chiraglohar9/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -458,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Chiraglohar9/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Chiraglohar9/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
