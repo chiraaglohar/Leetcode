@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Chiraglohar9/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Chiraglohar9/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/Chiraglohar9/Leetcode/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/Chiraglohar9/Leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Chiraglohar9/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Chiraglohar9/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Chiraglohar9/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Chiraglohar9/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Chiraglohar9/Leetcode/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chiraglohar9/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chiraglohar9/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
