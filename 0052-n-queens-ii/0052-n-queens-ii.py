@@ -8,7 +8,6 @@ class Solution:
                     return False
                 if position[prev_row] - prev_row == col - row:
                     return False
-
                 if position[prev_row] + prev_row == col + row:
                     return False
             return True
